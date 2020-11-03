@@ -1,0 +1,25 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "Backend for Shopping Cart",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeyFaith/Shopping-Cart.git"
+  },
+  "author": "Bey Faith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeyFaith/Shopping-Cart/issues"
+  },
+  "homepage": "https://github.com/BeyFaith/Shopping-Cart#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6"
+  }
+}
